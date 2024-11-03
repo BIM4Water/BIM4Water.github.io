@@ -7,7 +7,7 @@ The page uses D3js and Bootstrap to visualise the data. It is heavily inspired f
 ![image](https://github.com/user-attachments/assets/552b7a81-266e-4b99-9faa-e8d4ff6ed5d6)
 
 
-#### What still needs doing (As at Nov 2024)
+#### What (urgently) still needs doing (As at Nov 2024)
 
 1. Migrate D3js code to separate js file outside HTML.
 2. Add links to the project website in graph.
