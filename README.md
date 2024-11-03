@@ -6,10 +6,10 @@ The page uses D3js and Bootstrap to visualise the data. It is heavily inspired f
 
 #### What still needs doing (As at Nov 2024)
 
-Migrate D3js code to separate js file outside HTML.
-Add links to the project website in graph.
-Review Json data processing.
-Data cleansing and processing needed from survey results.
+1. Migrate D3js code to separate js file outside HTML.
+2. Add links to the project website in graph.
+3. Review Json data processing.
+4. Data cleansing and processing needed from survey results.
 
 
 **More to come, i'm sure!** 
